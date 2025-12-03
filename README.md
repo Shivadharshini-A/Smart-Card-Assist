@@ -1,4 +1,4 @@
- 🩺 MediAssist – RFID Smart Patient Dashboard
+ 🩺 MedZone – RFID Smart Patient Dashboard
 
 MediAssist is an IoT-based hospital system that uses **RFID + NodeMCU + Web Dashboard + Gemini AI** to instantly retrieve and manage patient medical records.
 
